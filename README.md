@@ -92,7 +92,7 @@ Our exploratory data analysis provides quantitative evidence to address the rese
 An interactive dashboard has been developed using Looker Studio to effectively communicate the findings and allow for deeper exploration of the data. This dashboard includes toggles, filters, and selectors to compare adopters/non-adopters and filter by household characteristics, providing clarity in text and filters.
 
 **View the interactive dashboard here:**
-[https://lookerstudio.google.com/u/0/reporting/c33378ab-1332-4df5-8dfa-14fcf2b7c77d/page/sU7LF?s=g-Kgzrjoax4](https://lookerstudio.google.com/u/0/reporting/c33378ab-1332-4df5-8dfa-14fcf2b7c77d/page/sU7LF?s=g-Kgzrjoax4)
+[[https://lookerstudio.google.com/u/0/reporting/c33378ab-1332-4df5-8dfa-14fcf2b7c77d/page/sU7LF?s=g-Kgzrjoax4](https://lookerstudio.google.com/u/0/reporting/c33378ab-1332-4df5-8dfa-14fcf2b7c77d/page/sU7LF?s=g-Kgzrjoax4)](https://datastudio.google.com/u/0/reporting/00504bc1-96aa-486b-a3ce-0b0d1f1f6561/page/p_a0vbsc2wsd)]
 
 ---
 
