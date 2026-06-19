@@ -80,10 +80,10 @@ Our exploratory data analysis provides quantitative evidence to address the rese
 * **Influencing Factors:** Outliers in all CSA adoption groups (low, medium, high) suggest that factors beyond just CSA adoption, such as soil quality, water availability, and farmer experience, also significantly affect yields. The variability at higher adoption levels further reflects that the quality of implementation matters, not just the adoption itself.
 
 *(Screenshot demonstrating the relationship between CSA Score and HH Food Security Score:)*
-![CSA Score vs. HH Food Security Score](assets/Screenshot%202025-07-15%20111210.png)
+![CSA Score vs. HH Food Security Score](/Screenshot%202025-07-15%20111210.png)
 
 *(Screenshot demonstrating the relationship between CSA Score and Maize Yield per Hectare:)*
-![CSA Score vs. Maize Yield per Hectare](assets/Screenshot%202025-07-15%20111247.png)
+![CSA Score vs. Maize Yield per Hectare](/Screenshot%202025-07-15%20111247.png)
 
 ---
 
